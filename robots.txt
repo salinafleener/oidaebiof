@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iowaidaix.coinbelly.com/sitemap.xml
